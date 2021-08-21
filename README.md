@@ -9,3 +9,5 @@ You may set it as a cronjob
 You may need to install [jq](https://stedolan.github.io/jq/).
 
 For Debian and derivates, `sudo apt install jq` should suffice
+
+If `jq` is not installed, `url: (23) Failed writing body` error is likely to occur
