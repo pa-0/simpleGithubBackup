@@ -1,3 +1,4 @@
+#!/bin/bash
 # 2021, The MIT License
 # MatMasIt (https://github.com/MatMasIt)
 # simpleGithubBackup, https://github.com/MatMasIt/simpleGithubBackup
