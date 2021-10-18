@@ -1,4 +1,7 @@
 # simpleGithubBackup
+
+![GitHub](https://img.shields.io/github/license/MatMasIt/simpleGithubBackup)
+
 Simple bash script to back up all of your github repositories.
 
 Just change the `USER` variable
